@@ -1,0 +1,6 @@
+:root{
+    --custom-color : darkred;
+}
+.custom{
+    color: var(--custom-color);
+}
